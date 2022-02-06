@@ -1,4 +1,28 @@
-# curso-alura-arquitetura-css
-Projeto feito para o curso de Arquitetura CSS para Alura
+# CSS
 
-Protótipo: https://www.figma.com/file/0gMF5BPgplPYqQA6Om1T1sk9/alura-bootstrap?node-id=0%3A1
+`CURSO: Formação FRONT-END Alura`
+
+`Parte I:  Arquitetura CSS: Descomplicando os problemas`
+
+`Parte II:  Em breve`
+
+
+## Integrante
+
+* Ana Ramos
+
+
+## Curso
+
+* Alura
+
+# Planejamento
+
+
+| Etapa         | Atividades part I |
+|  :----:   | ----------- |
+| ETAPA 1       |Layout base e Estilização de cabeçalho |
+| ETAPA 2       |Estilização de Banner e Sobre |
+| ETAPA 3       |Estilização das Receitas|
+| ETAPA 4       |Estilização do Quem Somos |
+| ETAPA 5       |Estilização do Rodapé e Responsividade do site |
