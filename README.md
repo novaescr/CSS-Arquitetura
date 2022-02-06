@@ -26,3 +26,5 @@
 | ETAPA 3       |Estilização das Receitas|
 | ETAPA 4       |Estilização do Quem Somos |
 | ETAPA 5       |Estilização do Rodapé e Responsividade do site |
+
+![Interface](https://https://github.com/novaescr/CSS-Arquitetura/blob/main/assets/img/Screenshot_1.png)
